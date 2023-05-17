@@ -1,0 +1,25 @@
+.main-main {
+    width: 100%;
+    height: auto;
+    padding: 3rem;
+/*    background-color: #14f;*/
+      
+}
+
+ .wrapper {
+     position: relative;
+     max-width: 130rem;
+     margin: 0 auto;
+  
+}
+
+.slider {
+    display: flex;
+    overflow: auto;
+    border: 2px solid white;
+    border-radius: 0.5rem;
+}
+
+.slider img {
+    flex: 1 0 100%;
+}
